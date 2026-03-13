@@ -42,10 +42,9 @@ The TICKET SURE project aims to revolutionize the ticket generation and validati
 ![Logo2](/public/home/ts.gif)
 ![Customer Interface](/public/home/tiffany's%20birthday!%20(2).png)
 ![Owner Interface](/public/home/TS%20(1).png)
-
 **Attention**: When an owner adds a bus, it will only be available after the admin accepts the bus request.
 
-For more information, contact: +91 9562441076 (phone/WhatsApp)
+
 
 ### Tags
 
